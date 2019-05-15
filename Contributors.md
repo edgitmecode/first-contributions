@@ -61,6 +61,7 @@
 - [Sahil Bondre](https://github.com/godcrampy)
 - [Fadillah Hadiyanto](https://github.com/mofadillah)
 - [Naman Biyani](https://github.com/namanbiyani)
+- [Ed Smith](https://github.com/edgitmecode)
 - [Ben Hunter](https://github.com/benhunter)
 - [Parthiban Thangaraj](https://github.com/parthicseraj)
 - [Sandeep Vellore] (https://github.com/sandeepvc)
